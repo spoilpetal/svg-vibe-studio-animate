@@ -1,6 +1,6 @@
 ### Live preview
 
-a live preview can be found here <a href="https://spoilpetal.github.io/svg-vibe-studio-animate">Avg-vibe-studio-animate</a>
+a live preview can be found here <a href="https://spoilpetal.github.io/svg-vibe-studio-animate">Svg-vibe-studio-animate</a>
 
 <br>
 
